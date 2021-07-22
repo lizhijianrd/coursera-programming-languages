@@ -10,3 +10,6 @@ Programming Languages Part B: [https://www.coursera.org/learn/programming-langua
 
 Programming Languages Part C: [https://www.coursera.org/learn/programming-languages-part-c](https://www.coursera.org/learn/programming-languages-part-c)
 
+## Reference
+
+sml document: [https://smlfamily.github.io/Basis/manpages.html](https://smlfamily.github.io/Basis/manpages.html)
