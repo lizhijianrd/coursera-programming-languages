@@ -13,3 +13,7 @@ Programming Languages Part C: [https://www.coursera.org/learn/programming-langua
 ## Reference
 
 sml document: [https://smlfamily.github.io/Basis/manpages.html](https://smlfamily.github.io/Basis/manpages.html)
+
+racket document: [https://racket-lang.org/](https://racket-lang.org/)
+
+the racket guide: [The Racket Guide](https://docs.racket-lang.org/guide/index.html)
